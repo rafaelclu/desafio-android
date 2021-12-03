@@ -3,4 +3,12 @@
     <string name="title">Contatos</string>
     <string name="error">Ocorreu um erro. Tente novamente.</string>
 
+
+    <string name="ok">OK</string>
+
+    <!-- Errors -->
+    <string name="unknown_error">Ops! Um erro ocorreu e não conseguimos concluir a operação.</string>
+    <string name="no_internet_error_title">Ooooops!</string>
+    <string name="no_internet_error_message">Você precisa estar conectado à internet para sincronizar os contatos!</string>
+
 </resources>
